@@ -1,13 +1,13 @@
 # AWS Cloud Practioner Certification
 
-##Resources 
+## Resources 
 ### Exam Overview
 https://aws.amazon.com/certification/certified-cloud-practitioner/
 
 ### Exam Outline
 https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
 
-### Pluralsight Exam Prep
+### Pluralsight Exam Prep - need full license
 https://www.pluralsight.com/courses/aws-cloud-practitioner-exam-prep
 
 ### Amazon Skill Builder Digital Course
@@ -131,6 +131,9 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
     - Amazon CloudFront
     - AWS Global Accelerator
 
+
+> 3/8/2022
+
 **3.3 Identify the core AWS services**
 - Describe the categories of services on AWS (compute, storage, network, database)
 - Identify AWS compute services
@@ -170,6 +173,7 @@ solution architects, training and certification, and the Amazon Partner Network
 
 
 ## Domain 4: Billing and Pricing
+> 3/15/2022
 
 **4.1 Compare and contrast the various pricing models for AWS (for example, On-Demand Instances, Reserved Instances, and Spot Instance pricing)**
 - Identify scenarios/best fit for On-Demand Instance pricing
