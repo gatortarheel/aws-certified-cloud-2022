@@ -16,9 +16,8 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 ---
 
 ### Domain 1 Cloud Concepts, Part 1 
-> 02/10/2022
+> 2/10/2022
 
-### Introduction
 
 **1.1 Define the benefits of the AWS cloud including**
 - Security
@@ -38,7 +37,7 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 
 ---
 ### Domain 1 Cloud Concepts, Part 2 
-> 02/17/2022
+> 2/17/2022
 
 **1.2 Identify aspects of AWS Cloud economics**
 - Define items that would be part of a Total Cost of Ownership proposal
@@ -62,7 +61,7 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 ---
 
 ### Domain 2 Security and Compliance
-> 02/24/2022
+> 2/24/2022
 
 **2.1 Define the AWS shared responsibility model**
 - Recognize the elements of the Shared Responsibility Model
@@ -105,6 +104,7 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 
 ## Domain 3: Technology
 > 3/1/2022
+
 **3.1 Define methods of deploying and operating in the AWS Cloud**
 
 - Identify at a high level different ways of provisioning and operating in the AWS cloud
@@ -198,4 +198,12 @@ solution architects, training and certification, and the Amazon Partner Network
 - Recognize that alarms/alerts exist
 - Identify how tags are used in cost allocation
 
+
+> 3/22/2022
+
+Practice Exam 1
+
+> 3/29/2022
+
+Practice Exam 2 - if needed
 
