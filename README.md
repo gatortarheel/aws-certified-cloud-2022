@@ -13,7 +13,7 @@ https://www.pluralsight.com/courses/aws-cloud-practitioner-exam-prep
 https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitioner-essentials-all-modules
 
 
-### Week 1  - Cloud Concepts 
+### Week 1  - Cloud Concepts, Part 1 
 > 02/10/2022
 
 ### Introduction
@@ -35,7 +35,7 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 
 
 ---
-### Week 2 - Cloud Concepts 
+### Week 2 - Cloud Concepts, Part 2 
 > 02/17/2022
 
 **1.2 Identify aspects of AWS Cloud economics**
