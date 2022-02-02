@@ -14,10 +14,23 @@ https://www.pluralsight.com/courses/aws-cloud-practitioner-exam-prep
 https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitioner-essentials-all-modules
 
 ---
+> Subject to Change
 
-### Domain 1 Cloud Concepts, Part 1 
-> 2/10/2022
+| Week | Date | Domain | Topics |
+| ----------- | --- | ----------- | --- |
+| 1 | 2/10/2022 | 1 | Cloud Concepts 1  |
+| 2 | 2/17/2022 | 2 | Security and Compliance 2.1 & 2.2 |
+| 3 | 2/24/2022 | 2 | Security and Compliance 2.3 & 2.4 |
+| 4 | 3/3/2022  | 3 | Technology 3.1 & 3.2 |
+| 5 | 3/10/2022 | 3 | Technology 3.3 & 3.4 |
+| 6 | 3/17/2022 | 4 | Billing and Pricing 4 |
+| 7 | 3/24/2022 |  | Practice Exam 1 |
+| 8 | 3/31/2022 | | Practice Exam 2 if needed |
 
+
+
+
+### Domain 1 Cloud Concepts
 
 **1.1 Define the benefits of the AWS cloud including**
 - Security
@@ -30,14 +43,8 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 - Global Reach
 - Economy of scale
 
-**Explain how the AWS cloud allows users to focus on business value**
-- Shifting technical resources to revenue-generating activities as opposed to managing infrastructure
-
-
-
----
-### Domain 1 Cloud Concepts, Part 2 
-> 2/17/2022
+- Explain how the AWS cloud allows users to focus on business value
+    - Shifting technical resources to revenue-generating activities as opposed to managing infrastructure
 
 **1.2 Identify aspects of AWS Cloud economics**
 - Define items that would be part of a Total Cost of Ownership proposal
@@ -61,13 +68,11 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 ---
 
 ### Domain 2 Security and Compliance
-> 2/24/2022
 
 **2.1 Define the AWS shared responsibility model**
 - Recognize the elements of the Shared Responsibility Model
     - Describe the customer’s responsibly on AWS
-    - Describe how the customer’s responsibilities may shift depending on the service used
-(for example with RDS, Lambda, or EC2)
+    - Describe how the customer’s responsibilities may shift depending on the service used (for example with RDS, Lambda, or EC2)
 -  Describe AWS responsibilities
 
 **2.2 Define AWS Cloud security and compliance concepts**
@@ -103,7 +108,6 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 - Know that security checks are a component of AWS Trusted Advisor
 
 ## Domain 3: Technology
-> 3/1/2022
 
 **3.1 Define methods of deploying and operating in the AWS Cloud**
 
@@ -131,8 +135,6 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
     - Amazon CloudFront
     - AWS Global Accelerator
 
-
-> 3/8/2022
 
 **3.3 Identify the core AWS services**
 - Describe the categories of services on AWS (compute, storage, network, database)
@@ -173,7 +175,6 @@ solution architects, training and certification, and the Amazon Partner Network
 
 
 ## Domain 4: Billing and Pricing
-> 3/15/2022
 
 **4.1 Compare and contrast the various pricing models for AWS (for example, On-Demand Instances, Reserved Instances, and Spot Instance pricing)**
 - Identify scenarios/best fit for On-Demand Instance pricing
@@ -197,13 +198,4 @@ solution architects, training and certification, and the Amazon Partner Network
     - AWS Pricing API
 - Recognize that alarms/alerts exist
 - Identify how tags are used in cost allocation
-
-
-> 3/22/2022
-
-Practice Exam 1
-
-> 3/29/2022
-
-Practice Exam 2 - if needed
 
