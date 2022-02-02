@@ -29,7 +29,7 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 
 
 
-
+---
 ### Domain 1 Cloud Concepts
 
 **1.1 Define the benefits of the AWS cloud including**
