@@ -25,8 +25,26 @@
 | 7 | 3/24/2022 | Appendix | Services/Features & Practice Exam 1 |
 | 8 | 3/31/2022 | | Practice Exam 2 if needed |
 
+> Assignments
+```
+Ratings
+1 - informational, skippable
+2 - informative, maybe skip if you are familiar
+3 - informative
+4 - informative for exam
+5 - informative for exam and work                                  
+```
+---
 
-[Why Get Certified?](https://youtu.be/3hLmDS179YE?t=40)
+| Week | Platform | Link | Length (mm:ss) | Rating | Notes
+| ----------- | --- |-------| -------- | --- | --- |
+| 1 | youtube | [Why Get Certified?](https://youtu.be/3hLmDS179YE?t=40) | 6:00 | 2 | Developers only need 8 hours of prep time! Pep talk /s |
+| 1 | youtube | [Exam Guide Overview](https://youtu.be/3hLmDS179YE?t=400) | 3:17  | 3 | Walk through of possible exam content |
+| 1 | youtube | [Advantages of Cloud Computing](https://youtu.be/3hLmDS179YE?t=597) | 4:45 | 4 | Common topic on practice exam questions |
+| 1 | youtube | [Types of Cloud Computing](https://youtu.be/3hLmDS179YE?t=882) | 2:06 | 2 | SAAS, PAAS, IAAS nice visualization |
+| 1 | youtube | [Cloud Deployment Models](https://youtu.be/3hLmDS179YE?t=1008) | 2:39 | 2 | Cloud, Hybrid, On-Premise |
+| 1 | youtube | [Map Overview](https://youtu.be/3hLmDS179YE?t=1167) |  | 4 | Global Infrastructure Regions, AZs, Edge Locations |
+
 
 
 ---
