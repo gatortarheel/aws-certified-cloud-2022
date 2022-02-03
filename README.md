@@ -1,17 +1,15 @@
 # AWS Cloud Practioner Certification
 
 ## Resources 
-### Exam Overview
-https://aws.amazon.com/certification/certified-cloud-practitioner/
+[Exam Overview](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-### Exam Outline
-https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
+[Exam Outline](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
-### Pluralsight Exam Prep - need full license
-https://www.pluralsight.com/courses/aws-cloud-practitioner-exam-prep
+[Pluralsight Exam Prep - need full license](https://www.pluralsight.com/courses/aws-cloud-practitioner-exam-prep)
 
-### Amazon Skill Builder Digital Course
-https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitioner-essentials-all-modules
+[Amazon Skill Builder Digital Course](https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitioner-essentials-all-modules)
+
+[AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
 
 ---
 > Subject to Change
@@ -27,6 +25,8 @@ https://explore.skillbuilder.aws/learn/course/134/play/31418/aws-cloud-practitio
 | 7 | 3/24/2022 | Appendix | Services/Features & Practice Exam 1 |
 | 8 | 3/31/2022 | | Practice Exam 2 if needed |
 
+
+[Why Get Certified?](https://www.youtube.com/watch?v=3hLmDS179YE)
 
 
 ---
@@ -227,7 +227,7 @@ be covered more than others on the exam, the order and placement of them in this
 
 ### AWS services and features
 - Analytics
-    - Amazon Athena
+    - [Amazon Athena](https://aws.amazon.com/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
     - Amazon Kinesis
     - Amazon QuickSight
 - Application Integration
