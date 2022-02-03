@@ -26,7 +26,7 @@
 | 8 | 3/31/2022 | | Practice Exam 2 if needed |
 
 
-[Why Get Certified?](https://www.youtube.com/watch?v=3hLmDS179YE)
+[Why Get Certified?](https://youtu.be/3hLmDS179YE?t=40)
 
 
 ---
